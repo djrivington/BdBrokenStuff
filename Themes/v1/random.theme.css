@@ -1,0 +1,14 @@
+//META{"name":"random","description":"random customizable Theme (based on null)","author":"Modder4869","version":"1.0.8"}*//{}
+/* gray */
+/* lost? https://github.com/Modder4869/BdBrokenStuff/tree/master/Themes*/
+@import url('https://modder4869.github.io/BdBrokenStuff/Themes/v1/random.css');
+/*--------------------------------------------------------------------------*/
+/* gray */
+:root {
+    --color1: #BDBDBD; /*friends row #99AAB5*/
+    --color2: #9E9E9E; /*friends #36393f */
+    --color3: #424242; /*titlebar #202225*/
+    --color4: #616161; /*channels #2f3136*/
+    --text-color: #212121;/* accent or something  #72767d*/
+    --selection-color: #BDBDBD; /* header #dcddde*/
+}
