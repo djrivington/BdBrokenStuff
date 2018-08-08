@@ -1433,3 +1433,15 @@ h2 {
 #app-mount path[fill="#4f545c"] {
     fill: var(--color2)
 }
+#bd-settingspane-container button,
+.button-38aScr:not([class*="colorGreen-29iAKY"]):not([class*="colorRed-1TFJan"]):not([class*="colorLink-35jkBc"]):not([class*="attachButton"]) {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.theme-dark .member-3W1lQa-3W1lQa.popout-3dRSmE-open .content-OzHfo4,
+.theme-dark .member-3W1lQa-3W1lQa.popout-3dRSmE-open:hover .content-OzHfo4,
+.theme-dark .member-3W1lQa:hover .content-OzHfo4,
+.theme-dark .member-3W1lQa.popout-open .content-OzHfo4,
+.theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
+    background-color: var(--color3)
+    }
