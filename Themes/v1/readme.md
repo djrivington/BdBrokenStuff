@@ -13,4 +13,4 @@ Customizable default discord theme
     --selection-color: #BDBDBD; /* header #dcddde*/
 }
 ```
-![Imgur](https://i.imgur.com/Mr10FGw.png)
+![Imgur](https://i.imgur.com/Mr10FGw.png) 
