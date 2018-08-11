@@ -387,13 +387,18 @@
     color: var(--text-color)
 }
 
-.theme-dark .quickMessage-1yeL4E,
-.theme-dark .messageGroupWrapper-o-Zw7G,
+
 .theme-dark .messagesWrapper-3lZDfY {
     background-color: var(--color2);
-    border-color: var(--color3)
+    border-color: var(--color3);
 }
-
+.theme-dark .messageGroupWrapper-o-Zw7G{
+    background-color:var(--color2)
+}
+.theme-dark .quickMessage-1yeL4E{
+    background-color:var(--color3);
+    border-color:var(--color3);
+}
 .theme-dark .messageGroupWrapper-o-Zw7G:hover {
     border-color: var(--color3)
 }
@@ -1052,10 +1057,8 @@ h2 {
 .theme-light .theme-dark .lookInverted-2D7oAl.hoverPrimary-2D1j2r.hasHover-3X1-zV:hover,
 .theme-light .theme-light .lookInverted-2D7oAl.hoverPrimary-2D1j2r.hasHover-3X1-zV:hover,
 .theme-light .lookInverted-2D7oAl.colorPrimary-3b3xI6:hover,
-.theme-dark .messagesPopoutWrap-1MQ1bW,
-.theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group,
 .da-activityFeed {
-    background-color: var(--color2) !important
+    background-color: var(--color2) !important;
 }
 
 #app-mount .markup-2BOw-j a,
@@ -1442,6 +1445,8 @@ h2 {
 .theme-dark .member-3W1lQa-3W1lQa.popout-3dRSmE-open:hover .content-OzHfo4,
 .theme-dark .member-3W1lQa:hover .content-OzHfo4,
 .theme-dark .member-3W1lQa.popout-open .content-OzHfo4,
-.theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
+.theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4,
+.theme-dark .messagesPopoutWrap-1MQ1bW,
+.theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group {
     background-color: var(--color3)
     }
