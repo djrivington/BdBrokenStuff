@@ -230,7 +230,7 @@
 .theme-dark .input-cIJ7To.disabled-2BKQFm,
 .theme-dark .cardPrimaryEditable-3KtE4g,
 .theme-dark .cardPrimary-1Hv-to {
-    background-color: var(--text-color) !important;
+    background-color: var(--color4) !important;
     border-color: var(--color3) !Important;
 }
 
@@ -831,12 +831,12 @@ button.button-1Pkqso.button-38aScr.lookOutlined-3sRXeN.colorWhite-rEQuAQ.sizeSma
 }
 
 .theme-dark .menu-Sp6bN1 {
-    background-color: hsla(217, 9%, 19%, 1)
+    background-color: var(--color3)
 }
 
 .theme-dark .item-1GzJrl:hover {
     background-color: hsla(0, 1%, 6%, 0.21);
-    color: hsl(0, 0, 100%)
+    color: hsl(0, 0, 100%);
 }
 
 .theme-dark .header-2RyJ0Y,
