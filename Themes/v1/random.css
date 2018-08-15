@@ -673,7 +673,7 @@
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D {
-    background-color: hsla(0, 0, 0, 0.2)
+    background-color: var(--color4)
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D .button:nth-of-type(1) {
