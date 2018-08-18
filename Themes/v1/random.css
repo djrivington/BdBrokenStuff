@@ -524,19 +524,19 @@
 }
 
 .tooltip-bottom::after {
-    border-bottom-color: var(--selection-color) !important
+    border-bottom-color: var(--text-color) !important
 }
 
 .tooltip-right::after {
-    border-right-color: var(--selection-color) !important
+    border-right-color: var(--text-color) !important
 }
 
 .tooltip-left::after {
-    border-left-color: var(--selection-color) !important
+    border-left-color: var(--text-color) !important
 }
 
 .tooltip-top::after {
-    border-top-color: var(--selection-color) !important
+    border-top-color: var(--text-color) !important
 }
 
 .tipsy-inner {
@@ -746,7 +746,7 @@ button.button-1Pkqso.button-38aScr.lookOutlined-3sRXeN.colorWhite-rEQuAQ.sizeSma
 }
 
 .tooltip {
-   background-color: var(--selection-color) !important;
+   background-color: var(--text-color) !important;
 }
 
 #app-mount .mention {
