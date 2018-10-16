@@ -16,16 +16,15 @@ Customizable default discord theme
 ![Imgur](https://i.imgur.com/Mr10FGw.png) 
 # with  background
 ```css
-:root {
-    --color1: rgba(0, 0, 0, 0.1); /*friends row #99AAB5*/
-    --color2: rgba(255, 255, 255, 0.01); /*friends #36393f */
-    --color3: rgba(255, 255, 255, 0.11); /*titlebar #202225*/
-    --color4: rgba(84, 84, 84, 0.15); /*channels #2f3136*/
-    --text-color: #8b8b8b;/* accent or something  #72767d*/
-    --selection-color: #ffffff; /* header #dcddde*/
-     --blurVal:5px; /*blur value , px is required */
-   --withBg: url("https://orig00.deviantart.net/b866/f/2016/197/1/9/megumin_wallpaper_by_kaazuma-daa79g7.png");
-/* ^ credits */
+:root{
+    --color1: rgba(0, 0, 0, 0.1);
+    --color2: rgba(255, 255, 255, 0.01);
+    --color3: rgba(255, 255, 255, 0.11);
+    --color4: rgba(84, 84, 84, 0.15);
+    --text-color: #feb89d;
+    --selection-color: #3C4569;
+    --blurVal: 5px;
+    --withBg: url(https://i.imgur.com/CRLSXXx.jpg);
 }
 body::before {
   z-index:-1;
@@ -44,4 +43,4 @@ body::before {
   --color4:rgb(14, 13, 13);
 }
 ```
-![Imgur](https://i.imgur.com/W8GKhd7.png) 
+![Imgur](https://i.imgur.com/ULWOui2.jpg) 
