@@ -36,11 +36,10 @@ body::before {
   background: var(--withBg) no-repeat center center fixed;
   filter: blur(var(--blurVal));
 }
-/* fix popout or whatever */
-.contextMenu-HLZMGh, .itemSubMenu-1vN_Yn,.popout-3sVMXz, .popouts-3dRSmE,.popouts-3dRSmE >div,.autocomplete-1vrmpx ,.autocomplete-i9yVHs ,.da-autocomplete{
- --color2:var(--color3);
-  --color3:rgba(0, 0, 0, 0.88);
-  --color4:rgb(14, 13, 13);
+.contextMenu-HLZMGh, .itemSubMenu-1vN_Yn, .popout-3sVMXz, .popouts-3dRSmE, .popouts-3dRSmE >div, .autocomplete-1vrmpx, .autocomplete-i9yVHs, .da-autocomplete {
+    --color2: var(--color3);
+    --color3: rgba(213, 209, 209, 0.2);
+    --color4: rgb(14, 13, 13);
 }
 ```
 ![Imgur](https://i.imgur.com/ULWOui2.jpg) 
