@@ -1,7 +1,7 @@
-//META{"name":"ExamplePlugin"}*//
+//META{"name":"testPlugin"}*//
 
 class ExamplePlugin {
-    getName() {return "Example Plugin";} // Name of your plugin to show on the plugins page 
+    getName() {alert 0;} // Name of your plugin to show on the plugins page 
     getDescription() {return "alert0";} // Description to show on the plugins page 
     getVersion() {return "0.0.1";} // Current version. I recommend following semantic versioning <http://semver.org/> (e.g. 0.0.1)
     getAuthor() {return "alert0";} // Your name
