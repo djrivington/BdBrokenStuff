@@ -1454,3 +1454,6 @@ h2 {
 .theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD, .bodyTitle-Y0qMQz, .nameDefaultVoice-3WUH7s, .nameLockedText-3pqQcL, .nameLockedVoice-26MhB1, .iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H, .membersGroup-v9BXpm {
     color: var(--selection-color) !important ;
 }
+.theme-dark .sidebarRegion-VFTUkN ,.theme-dark .contentRegion-3nDuYy{
+    background: transparent;
+}
