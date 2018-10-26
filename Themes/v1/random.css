@@ -670,7 +670,7 @@
 .info-CdF_ik,
 .theme-dark .footer-2yfCgX,
 .themeDark-3BOwlz,
-.theme_dark-2FtE3l {
+.theme_dark-2FtE3l,#app-mount .container-3ayLPN {
     background-color: var(--color4) !important
 }
 
@@ -1456,4 +1456,7 @@ h2 {
 }
 .theme-dark .sidebarRegion-VFTUkN ,.theme-dark .contentRegion-3nDuYy{
     background: transparent;
+}
+.themeDark-3Ap_7i,.standardSidebarView-3F1I7i,.da-standardSidebarView{
+    background-color: transparent !important;
 }
