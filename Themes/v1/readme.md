@@ -14,6 +14,19 @@ Customizable default discord theme
 }
 ```
 ![Imgur](https://i.imgur.com/Mr10FGw.png) 
+# Whatever1
+```css
+:root {
+    --color1:#212121; /*friends row #99AAB5*/
+    --color2: #212121; /*friends #36393f */
+    --color3: #292828; /*titlebar #202225*/
+    --color4: #424242; /*channels #2f3136*/
+    --text-color: #C51162;/* accent or something  #72767d*/
+    --selection-color: #616161; /* header #dcddde*/
+}
+
+```
+![Imgur](https://i.imgur.com/8ecfX77.png) 
 # with  background
 ```css
 :root{
