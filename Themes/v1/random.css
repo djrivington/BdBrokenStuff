@@ -3,7 +3,7 @@
 }
 
 .theme-light .theme-dark .lookOutlined-3sRXeN.hoverTransparent-2Lz5CN.hasHover-3X1-zV:hover,
-.theme-light .theme-light .lookOutlined-3sRXeN.hoverTransparent-2Lz5CN.hasHover-3X1-zV:hover,.theme-dark .searchOption-zQ-1l6 .answer-1n6g43 {
+.theme-light .theme-light .lookOutlined-3sRXeN.hoverTransparent-2Lz5CN.hasHover-3X1-zV:hover {
     border-color: var(--color1);
     color: var(--text-color)
 }
@@ -1459,4 +1459,10 @@ h2 {
 }
 .themeDark-3Ap_7i,.standardSidebarView-3F1I7i,.da-standardSidebarView{
     background-color: transparent !important;
+}
+.theme-dark .searchOption-zQ-1l6 {
+    color:var(--text-color);
+}
+#app-mount .option-96V44q:hover .answer-1n6g43 {
+    color:var(--selection-color);
 }
