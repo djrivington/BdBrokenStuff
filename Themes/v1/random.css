@@ -1466,3 +1466,6 @@ h2 {
 #app-mount .option-96V44q:hover .answer-1n6g43 {
     color:var(--selection-color);
 }
+#app-mount .theme-dark .option-96V44q:after {
+    background: none;
+}
