@@ -3,7 +3,7 @@
 }
 
 .theme-light .theme-dark .lookOutlined-3sRXeN.hoverTransparent-2Lz5CN.hasHover-3X1-zV:hover,
-.theme-light .theme-light .lookOutlined-3sRXeN.hoverTransparent-2Lz5CN.hasHover-3X1-zV:hover {
+.theme-light .theme-light .lookOutlined-3sRXeN.hoverTransparent-2Lz5CN.hasHover-3X1-zV:hover,.theme-dark .searchOption-zQ-1l6 .answer-1n6g43 {
     border-color: var(--color1);
     color: var(--text-color)
 }
@@ -592,13 +592,13 @@
 
 .theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw,
 .theme-dark .resultsGroup-r_nuzN:before {
-    border-top: 1px solid hsla(223, 8%, 10%, 0.3)
+    border-top: 1px solid hsla(223, 8%, 10%, 0.3);
 }
 
 .theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z:hover,
 .theme-dark .option-96V44q.selected-rZcOL-,
 .chat-3bRxxu .newMessagesBar-mujexs {
-    background-color: var(--text-color) !important
+    background-color: var(--text-color) !important;
 }
 
 .theme-dark .searchAnswer-3Dz2-q,
