@@ -279,7 +279,7 @@
 .lookFilled-1Gx00P.colorWhite-rEQuAQ .spinnerItem-3GlVyU,
 .verifyConnectedAccount-3WFmtE,
 #oauth2-authorize,
-#oauth2-message,.channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a {
+#oauth2-message,.channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a,.typeWindows-1za-n7,.theme-dark .wrapper-1Rf91z, .theme-light .wrapper-1Rf91z {
     background-color: var(--color3)
 }
 
@@ -368,7 +368,7 @@
 .theme-dark #friends .scroller-wrap ::-webkit-scrollbar-thumb,
 .theme-dark .search-results-wrap .scroller-wrap .scroller::-webkit-scrollbar-track-piece,
 .topSectionNormal-2-vo2m {
-    background-color: var(--color3) !important
+    background-color: var(--color3) !important;
 }
 
 .theme-dark.contextMenu-HLZMGh,
@@ -391,6 +391,7 @@
 .theme-dark .messagesWrapper-3lZDfY {
     background-color: var(--color2);
     border-color: var(--color3);
+    /* background-color: #c74141; */
 }
 .theme-dark .messageGroupWrapper-o-Zw7G{
     background-color:var(--color2)
@@ -671,7 +672,7 @@
 .theme-dark .footer-2yfCgX,
 .themeDark-3BOwlz,
 .theme_dark-2FtE3l,#app-mount .container-3ayLPN {
-    background-color: var(--color4) !important
+    background-color: var(--color4) !important;
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D {
@@ -773,7 +774,7 @@ button.button-1Pkqso.button-38aScr.lookOutlined-3sRXeN.colorWhite-rEQuAQ.sizeSma
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece,
 .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-track-piece {
     background: rgba(0, 0, 0, 0.05) !important;
-    border-color: transparent
+    border-color: transparent !important;
 }
 
 .emojiPicker-3m1S-j .categories-1feg4n .item-16cXuq.selected-39BZ4S {
